@@ -1,0 +1,17 @@
+.popularProducts {
+  width: 100%;
+  text-align: center;
+  .popularProductsContainer {
+    width: 80%;
+    margin: auto;
+    .popularProductsItems {
+      width: 100%;
+      gap: 25px;
+      text-align: center;
+      display: flex;
+      flex-wrap: wrap;
+      text-align: center;
+      justify-content: space-between;
+    }
+  }
+}

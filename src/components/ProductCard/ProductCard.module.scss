@@ -1,0 +1,16 @@
+.productCard{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+    border: 1px solid grey;
+    img{
+        max-width: 100%;
+        height: 200px;
+    }
+    .description{
+        height: 40px;
+    }
+
+}
